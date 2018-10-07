@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\board.o
+./debug\tcp_client.o
+./debug\tcp_server.o
+./debug\server_tcp.o
+./debug\sockettest.o
+./debug\move.o
+./debug\moc_mainwindow.o
+./debug\moc_board.o
+./debug\moc_tcp_client.o
+./debug\moc_tcp_server.o
+./debug\moc_server_tcp.o
+./debug\moc_sockettest.o
+);
