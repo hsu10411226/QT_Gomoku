@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\board.o
+./release\tcp_client.o
+./release\tcp_server.o
+./release\server_tcp.o
+./release\sockettest.o
+./release\move.o
+./release\moc_mainwindow.o
+./release\moc_board.o
+./release\moc_tcp_client.o
+./release\moc_tcp_server.o
+./release\moc_server_tcp.o
+./release\moc_sockettest.o
+);
